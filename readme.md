@@ -23,3 +23,10 @@ http://reactivex.io/intro.html
 https://github.com/conal/talk-2015-essence-and-origins-of-frp
 
 https://egghead.io/courses/introduction-to-reactive-programming
+
+http://berb.github.io/diploma-thesis/original/
+
+https://letitcrash.com/
+
+https://akka.io/blog/
+
